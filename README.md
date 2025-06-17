@@ -1,10 +1,12 @@
 - 👋 Hi, I’m Max Seifert.
-- 👀 I’m interested in ...
+- 👀 I’m interested in anything.
 - 🌱 I’m currently learning Solidity.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me in [Telegram](https://t.me/MaxSeifert).
+- 💞️ I’m looking to collaborate on anything.
+- 📫 How to reach me by [Telegram](https://t.me/MaxSeifert).
 
-Ubi dubium ibi libertas.
+# Ubi dubium ibi libertas.
+
+⚪⚫<br>⚫⚪
 
 <!---
 EdefexBA/EdefexBA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
